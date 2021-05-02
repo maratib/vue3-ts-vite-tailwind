@@ -1,5 +1,5 @@
 # Vue 3 + Typescript + Vite
-## with Vuex 4, Vue-Router 4 and latest TailwindCSS setup
+## with Vuex 4, Vue-Router 4, Vite Aliases and latest TailwindCSS setup
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
